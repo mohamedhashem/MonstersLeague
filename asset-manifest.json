@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MonstersLeague/static/css/main.d072e9f9.css",
+    "main.js": "/MonstersLeague/static/js/main.1da76469.js",
+    "static/js/787.b32eade1.chunk.js": "/MonstersLeague/static/js/787.b32eade1.chunk.js",
+    "index.html": "/MonstersLeague/index.html",
+    "main.d072e9f9.css.map": "/MonstersLeague/static/css/main.d072e9f9.css.map",
+    "main.1da76469.js.map": "/MonstersLeague/static/js/main.1da76469.js.map",
+    "787.b32eade1.chunk.js.map": "/MonstersLeague/static/js/787.b32eade1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d072e9f9.css",
+    "static/js/main.1da76469.js"
+  ]
+}
